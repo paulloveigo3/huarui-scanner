@@ -1,0 +1,2 @@
+# huarui-scanner
+huarui-scanner
